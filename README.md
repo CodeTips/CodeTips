@@ -1,27 +1,18 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0a0f24,100:003366&text=CodeTips&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&fontSize=75&desc=iOS%20%7C%20Reverse%20Engineering%20%7C%20Security%20Research%20%7C%20Indie%20Developer&descAlignY=65&descSize=22" />
-</p>
+# CodeTips
+
+## 🧑‍💻 关于我  
+独立开发者 · 专注 iOS/macOS / 系统逆向 / 自动化 / 安全研究  
+
+主要使用语言 & 技术栈包括 Objective-C, Swift, Python, C++ 等，专注底层系统与工具开发。  
 
 ---
 
-## 🧠 About Me
-> Independent Developer · Security Researcher · Reverse Engineering  
-> Focus on iOS, macOS, security, low-level system internals & automation
+## ⚙️ 技术栈 & 能力标签  
 
-- 🔬 Specializing in **Jailbreak / Hook / Frida / Debugging / Binary Analysis**
-- 💻 Skilled at **Objective-C / Swift / Python / C++ / Logos / ARM64**
-- 🧩 Extensive experience with **IDA Pro / Hopper / LLDB / Cycript / Frida / Dobby / MonkeyDev**
-- ⚙️ Passionate about **system design, performance optimization, and tooling architecture**
-- 🚀 Creator of multiple automation, reverse-engineering frameworks and kernel-level tweaks
+`Objective-C` `Swift` `Python` `C++` `Hook / Reverse / Jailbreak` `系统自动化` `安全 / 二进制分析` `Network / Proxy`  
 
 ---
 
-## ⚔ Technical Skills
-```text
-iOS / macOS / Reverse Engineering / Tweak Development
-Objective-C / Swift / Python / C++ / Logos / Hook Frameworks
-System Internals / Kernel Debug / Binary Patch / ARM64 Assembly
-Jailbreak / Frida / Cycript / LLDB / DebugServer / Dobby
-Low-Level Networking / Proxy / Traffic Analysis / Automation Frameworks
-CI / Build Systems / Tooling Architecture / SDK Design
+## 🤝 合作 & 联系  
+
+欢迎对 iOS/macOS 安全、系统开发、自动化脚本、逆向工程、插件开发有兴趣的人联系／交流／合作。  
